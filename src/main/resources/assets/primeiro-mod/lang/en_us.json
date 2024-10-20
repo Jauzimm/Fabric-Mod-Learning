@@ -1,5 +1,8 @@
 {
   "item.primeiro-mod.pink_garnet": "Pink Garnet",
   "item.primeiro-mod.raw_pink_garnet": "Raw Pink Garnet",
-  "item.primeiro-mod.yan": "Yan"
+
+  "block.primeiro-mod.pink_garnet_block": "Block of Pink Garnet",
+  "block.primeiro-mod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+  "block.primeiro-mod.que_se_foda": "Que se Foda Block"
 }

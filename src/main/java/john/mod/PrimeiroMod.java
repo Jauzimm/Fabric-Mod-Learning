@@ -1,5 +1,6 @@
 package john.mod;
 
+import john.mod.block.ModBlocks;
 import john.mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,5 +14,6 @@ public class PrimeiroMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
