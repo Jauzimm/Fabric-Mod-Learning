@@ -4,5 +4,9 @@
 
   "block.primeiro-mod.pink_garnet_block": "Block of Pink Garnet",
   "block.primeiro-mod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
-  "block.primeiro-mod.que_se_foda": "Que se Foda Block"
+  "block.primeiro-mod.que_se_foda": "Que se Foda Block",
+
+  "itemgroup.primeiro-mod.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.primeiro-mod.pink_garnet_blocks": "Pink Garnet Blocks"
+
 }
